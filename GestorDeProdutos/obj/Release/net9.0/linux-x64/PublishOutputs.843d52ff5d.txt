@@ -1,0 +1,5 @@
+/home/paulo/Downloads/GestorDeProdutos
+/home/paulo/Downloads/GestorDeProdutos.dll
+/home/paulo/Downloads/GestorDeProdutos.deps.json
+/home/paulo/Downloads/GestorDeProdutos.runtimeconfig.json
+/home/paulo/Downloads/GestorDeProdutos.pdb

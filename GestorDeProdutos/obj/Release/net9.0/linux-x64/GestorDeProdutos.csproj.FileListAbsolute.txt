@@ -1,0 +1,14 @@
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Release/net9.0/linux-x64/GestorDeProdutos
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Release/net9.0/linux-x64/GestorDeProdutos.deps.json
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Release/net9.0/linux-x64/GestorDeProdutos.runtimeconfig.json
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Release/net9.0/linux-x64/GestorDeProdutos.dll
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Release/net9.0/linux-x64/GestorDeProdutos.pdb
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/GestorDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/GestorDeProdutos.AssemblyInfoInputs.cache
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/GestorDeProdutos.AssemblyInfo.cs
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/GestorDeProdutos.csproj.CoreCompileInputs.cache
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/GestorDeProdutos.dll
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/refint/GestorDeProdutos.dll
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/GestorDeProdutos.pdb
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/GestorDeProdutos.genruntimeconfig.cache
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Release/net9.0/linux-x64/ref/GestorDeProdutos.dll

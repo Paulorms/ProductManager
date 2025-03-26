@@ -1,0 +1,14 @@
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Debug/net9.0/GestorDeProdutos
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Debug/net9.0/GestorDeProdutos.deps.json
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Debug/net9.0/GestorDeProdutos.runtimeconfig.json
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Debug/net9.0/GestorDeProdutos.dll
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/bin/Debug/net9.0/GestorDeProdutos.pdb
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/GestorDeProdutos.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/GestorDeProdutos.AssemblyInfoInputs.cache
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/GestorDeProdutos.AssemblyInfo.cs
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/GestorDeProdutos.csproj.CoreCompileInputs.cache
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/GestorDeProdutos.dll
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/refint/GestorDeProdutos.dll
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/GestorDeProdutos.pdb
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/GestorDeProdutos.genruntimeconfig.cache
+/home/paulo/RiderProjects/GestorDeProdutos/GestorDeProdutos/obj/Debug/net9.0/ref/GestorDeProdutos.dll
