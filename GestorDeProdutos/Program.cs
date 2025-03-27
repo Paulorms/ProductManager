@@ -24,7 +24,7 @@ class Program
         Console.Write("Gostaria de fazer alguma modificação? y/n ");
         char fazerModificacao = char.Parse(Console.ReadLine().ToLowerInvariant());
         
-        while (fazerModificacao == 'y'  && fazerModificacao != 'n' )
+        while (fazerModificacao == 'y')
         {
             Console.Clear();
             
